@@ -68,7 +68,7 @@ The top panel includes dropdown filters that allow stakeholders to analyze perfo
 ###  RevPar and Occupancy by Day Type
 
 | Day Type | RevPar | Occupancy% | ADR   | Realisation |
-|----------|--------|------------|----  -|-------------|
+|----------|--------|------------|-------|-------------|
 | Weekday  | ₹5K    | 57.9%      | ₹8.8K | 75.0%       |
 | Weekend  | ₹2K    | 57.9%      | ₹3.9K | 75.5%       |
 
